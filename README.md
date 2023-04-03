@@ -1,8 +1,9 @@
 # Student-Management-System_AccioJob
 - D1 Placment Major Project in AccioJob
-- Project - Student Management System Using netbeans on JavaSwing Framework in Java,MySQl connect using JDBC.
--
-- Features are
+- Project - Student Management System 
+- Tech Stack Used  JavaSwing Framework,MySQl.
+- IDE - NetBeans
+- Options are
 - Home - Student & Admin Login
 - Search - Student Result and Details
 - Add New Student - Name,Course,Branch,Roll No,Gender,Father Name
